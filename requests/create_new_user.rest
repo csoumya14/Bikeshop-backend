@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "customerName": "kolunarayan",
+  "phoneNumber": "654545",
+  "email": "kolu@example.com",
+  "bikeBrand": "holo",
+  "typeOfService": "brake maintenance",
+  "dueDate": "2020-07-20"
+}
