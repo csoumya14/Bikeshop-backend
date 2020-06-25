@@ -1,11 +1,12 @@
 POST http://localhost:3001/api/users
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imdvb2RnaXJsIiwiaWQiOiI1ZWY0NjY5YzlhZDRkZDA5NmY2ZDc1NzkiLCJpYXQiOjE1OTMwODkxNDF9.RbudkQPMtwC_OPXXtN1X209lhy4PiEwCcOH_hFk9tLw
 
 {
-  "customerName": "kolunarayan",
-  "phoneNumber": "654545",
-  "email": "kolu@example.com",
-  "bikeBrand": "holo",
+  "customerName": "charmy",
+  "phoneNumber": "89898989899",
+  "email": "chol@example.com",
+  "bikeBrand": "kpuii",
   "typeOfService": "brake maintenance",
-  "dueDate": "2020-07-20"
+  "dueDate": "2020-07-9"
 }

@@ -1,0 +1,10 @@
+PUT http://localhost:3001/api/users/5ef0a23673b6fc120c90c771
+Content-Type: application/json
+
+{
+  "phoneNumber": "12211",
+  "email": "savuth@example.com",
+  "bikeBrand": "srii",
+  "typeOfService": "chain replacement",
+  "dueDate": "2020-03-9"
+}
